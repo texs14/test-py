@@ -1,0 +1,8 @@
+polyglot
+pyicu
+pycld2
+morfessor
+numpy
+six
+pythainlp
+googletrans==4.0.0-rc1
